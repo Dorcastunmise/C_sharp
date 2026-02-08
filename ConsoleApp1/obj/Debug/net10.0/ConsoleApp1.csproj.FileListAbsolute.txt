@@ -1,0 +1,17 @@
+C:\xampp\htdocs\console_app\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\xampp\htdocs\console_app\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\xampp\htdocs\console_app\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\xampp\htdocs\console_app\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\xampp\htdocs\console_app\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\xampp\htdocs\console_app\ConsoleApp1\bin\Debug\net10.0\Pastel.dll
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\console_app\ConsoleApp1\obj\Debug\net10.0\ConsoleA.CB28C8CC.Up2Date

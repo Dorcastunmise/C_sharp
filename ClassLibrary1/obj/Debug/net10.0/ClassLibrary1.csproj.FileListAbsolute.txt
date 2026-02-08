@@ -1,0 +1,11 @@
+C:\xampp\htdocs\console_app\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.deps.json
+C:\xampp\htdocs\console_app\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.dll
+C:\xampp\htdocs\console_app\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.pdb
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfo.cs
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.dll
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\refint\ClassLibrary1.dll
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.pdb
+C:\xampp\htdocs\console_app\ClassLibrary1\obj\Debug\net10.0\ref\ClassLibrary1.dll
