@@ -30,6 +30,10 @@ public class Program
         string based  = "Pinned";
 
         //if(limit == based)
+        /*
+            if(.Equals() checks the literal values of the variables
+            and ==  checks the values held inside the memory address
+        */
         if(limit.Equals(based))
         {
             Console.WriteLine("Same!");
@@ -42,6 +46,14 @@ public class Program
         {
             Console.WriteLine("Nothing!");
         }
+
+        Console.WriteLine();
+        char[] chars = ['p', 'i', 'n', 'n', 'e', 'd'];
+        object newCompare = new string(chars);
+
+        //if(limit == newCompare) = Different! == compares string object to an object
+        if(limit.Equals(newCompare)) Console.WriteLine("Same!");
+        else Console.WriteLine("Different!");
 
         Console.WriteLine();
 
