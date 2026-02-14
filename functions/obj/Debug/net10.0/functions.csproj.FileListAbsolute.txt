@@ -1,0 +1,12 @@
+C:\xampp\htdocs\console_app\functions\bin\Debug\net10.0\functions.deps.json
+C:\xampp\htdocs\console_app\functions\bin\Debug\net10.0\functions.dll
+C:\xampp\htdocs\console_app\functions\bin\Debug\net10.0\functions.pdb
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.AssemblyInfoInputs.cache
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.AssemblyInfo.cs
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.sourcelink.json
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.dll
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\refint\functions.dll
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\functions.pdb
+C:\xampp\htdocs\console_app\functions\obj\Debug\net10.0\ref\functions.dll
