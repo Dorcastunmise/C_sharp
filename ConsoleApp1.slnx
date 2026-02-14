@@ -5,6 +5,7 @@
   <Project Path="Exercise/Exercise.csproj" />
   <Project Path="Format/Format.csproj" />
   <Project Path="IsNullOrEmpty/IsNullOrEmpty.csproj" />
+  <Project Path="Lists/Lists.csproj" />
   <Project Path="StringLoop/StringLoop.csproj" />
   <Project Path="TryParse/TryParse.csproj" />
   <Project Path="Verbatim/Verbatim.csproj" />
