@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ArrayProgram/ArrayProgram.csproj" />
   <Project Path="ArraySort/ArraySort.csproj" />
+  <Project Path="ArraySum/ArraySum.csproj" />
   <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
   <Project Path="Dictionaries/Dictionaries.csproj" />
   <Project Path="Exercise/Exercise.csproj" />
@@ -11,6 +12,7 @@
   <Project Path="Multiples/Multiples.csproj" />
   <Project Path="OddEven/OddEven.csproj" />
   <Project Path="StringLoop/StringLoop.csproj" />
+  <Project Path="TraingleArea/TraingleArea.csproj" />
   <Project Path="TryParse/TryParse.csproj" />
   <Project Path="Verbatim/Verbatim.csproj" />
 </Solution>
