@@ -4,12 +4,40 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.Write("Enter your name: ");
-        string name = Console.ReadLine();
+        Console.Write("Enter your password: ");
+        string pass = Console.ReadLine();
+    
+        Console.Write("Confirm your password:");
+        string confirm_pass = Console.ReadLine();
 
-        if(name.Equals("")) Console.WriteLine("0");
-        else Console.WriteLine("1");
+        //if (!string.IsNullOrEmpty(pass) && !string.IsNullOrEmpty(confirm_pass))
+        if (!pass.Equals(string.Empty))
+        {      
+            if(pass.Length >= 6 && confirm_pass.Length >= 6) {   
+                if (!confirm_pass.Equals(string.Empty))
+                {
+                    if(pass.Equals(confirm_pass)){
+                        Console.WriteLine("Passwords match!");
+                    }
+                    else {
+                        Console.WriteLine("Passwords do not match!");                  
+                    }
+                } else
+                        {
+                            Console.WriteLine("Please confirm password");
+                        }
+            } else
+            {
+                Console.WriteLine("Passwords must be at least 6 characters long");
+            }
 
-        if(!string.IsNullOrEmpty(name)) Console.WriteLine("2"); //IsNullOrEmpty checks for "" and null as well 
+           
+        } else
+        {
+            Console.WriteLine("Please provide a password");
+        }
+        
+        
+
     }
 }

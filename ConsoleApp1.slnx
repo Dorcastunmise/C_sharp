@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="ArrayProgram/ArrayProgram.csproj" />
+  <Project Path="ArraySort/ArraySort.csproj" />
   <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
   <Project Path="Exercise/Exercise.csproj" />
   <Project Path="Format/Format.csproj" />
