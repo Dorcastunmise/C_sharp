@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraingleArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f6ba58180e5dac8597c2cbe72ed44d2068f5a4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+315c7a104d45aab8428243ee41c3e87c6daa567d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraingleArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraingleArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

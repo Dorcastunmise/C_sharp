@@ -1,0 +1,12 @@
+C:\xampp\htdocs\console_app\Debugging\bin\Debug\net10.0\Debugging.deps.json
+C:\xampp\htdocs\console_app\Debugging\bin\Debug\net10.0\Debugging.dll
+C:\xampp\htdocs\console_app\Debugging\bin\Debug\net10.0\Debugging.pdb
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfoInputs.cache
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfo.cs
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.sourcelink.json
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.dll
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\refint\Debugging.dll
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\Debugging.pdb
+C:\xampp\htdocs\console_app\Debugging\obj\Debug\net10.0\ref\Debugging.dll

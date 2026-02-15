@@ -1,9 +1,12 @@
 <Solution>
+  <Project Path="Access/Access.csproj" />
   <Project Path="ArrayProgram/ArrayProgram.csproj" />
   <Project Path="ArraySort/ArraySort.csproj" />
   <Project Path="ArraySum/ArraySum.csproj" />
   <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
+  <Project Path="Debugging/Debugging.csproj" />
   <Project Path="Dictionaries/Dictionaries.csproj" />
+  <Project Path="Exceptions/Exceptions.csproj" />
   <Project Path="Exercise/Exercise.csproj" />
   <Project Path="Format/Format.csproj" />
   <Project Path="functions/functions.csproj" />

@@ -1,0 +1,12 @@
+C:\xampp\htdocs\console_app\Exceptions\bin\Debug\net10.0\Exceptions.deps.json
+C:\xampp\htdocs\console_app\Exceptions\bin\Debug\net10.0\Exceptions.dll
+C:\xampp\htdocs\console_app\Exceptions\bin\Debug\net10.0\Exceptions.pdb
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.AssemblyInfoInputs.cache
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.AssemblyInfo.cs
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.sourcelink.json
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.dll
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\refint\Exceptions.dll
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\Exceptions.pdb
+C:\xampp\htdocs\console_app\Exceptions\obj\Debug\net10.0\ref\Exceptions.dll
